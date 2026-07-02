@@ -1,0 +1,21 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Node / tooling (if added later)
+node_modules/
+dist/
+.cache/
+
+# Env / secrets
+.env
+.env.*
+credentials.json
+token.json
+
+# Temp
+.tmp/
+*.log
